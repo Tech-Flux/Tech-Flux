@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <a href="https://imgur.com/2fg7giv"><img src="https://imgur.com/2fg7giv" alt="01" border="0" /></a>
+    <a href="https://imgur.com/2fg7giv"><img src="[img]https://i.imgur.com/2fg7giv.jpg[/img]" alt="01" border="0" /></a>
 </p>
 
 
