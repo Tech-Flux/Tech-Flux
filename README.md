@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <a href="https://i.imgur.com/CCE0D8E.mp4"><img src="https://youtu.be/l0zM_-jlMiU" alt="01" border="0" /></a>
+    <a href="https://i.imgur.com/CCE0D8E.mp4"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="01" border="0" /></a>
 </p>
 
 
