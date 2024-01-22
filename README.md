@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://i.imgur.com/CCE0D8E.mp4">
-        <img src="https://i.imgur.com/RGtXyG2.jpg" alt="01" width="300" height="200"/>
+        <img src="https://i.imgur.com/RGtXyG2.jpg" alt="01" width="500" height="500"/>
     </a>
 </p>
 
