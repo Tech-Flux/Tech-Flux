@@ -129,33 +129,5 @@
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>اThank You For Visiting..✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xIKRATOSx&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 Credit: [Abdulrahman](https://github.com/x-poison)
 
