@@ -121,27 +121,10 @@
 
 <ul>
 
-<li>
-<a href="https://www.instagram.com/noo.b.i.e/" target="_blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30" />
-</a>
-</li>
 
-<br>
-
-<li>
-<a href="https://wa.me/254798708444" target="_blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/WhatsApp_logo-color-vertical.svg" height="30" width="30" />
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:otienok234@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  xpoison-abdul-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdulrahmanmossadhacker@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254798708444)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kevinlucas254)
 	
 </ul>
 </div>
